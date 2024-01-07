@@ -1,4 +1,6 @@
-package homework.task_1;
+package homework.task_1.services;
+
+import homework.task_1.utils.CustomInterface;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
